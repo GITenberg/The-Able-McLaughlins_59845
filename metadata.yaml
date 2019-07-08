@@ -1,12 +1,17 @@
 _repo: The-Able-McLaughlins_59845
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Wilson, Margaret
     birthdate: 1882
     gutenberg_agent_id: '50658'
     url: http://www.gutenberg.org/2009/agents/50658
+covers:
+- cover_type: archival
+  image_path: 59845-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59845#The-Able-McLaughlins
 gutenberg_issued: '2019-07-01'
 gutenberg_type: Text
 identifiers:
